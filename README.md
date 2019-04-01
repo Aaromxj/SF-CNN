@@ -1,5 +1,5 @@
 # SF-CNN
-Code for the manuscript of Scale-Free Convolutional Neural Network for Remote Sensing Scene Classification, which is accepted by IEEE Transactions on Geoscience and Remote Sensing 
+Code for the paper of Scale-Free Convolutional Neural Network for Remote Sensing Scene Classification, which is accepted by IEEE Transactions on Geoscience and Remote Sensing 
 
 ### Note
 0. We use Caffe ("https://github.com/WeitaoVan/L-GM-loss") to train our Scale-free CNN models.
